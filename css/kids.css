@@ -1,0 +1,42 @@
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.card1{
+    width: fit-content;
+    height: fit-content;
+    background-color: black;
+    margin: 10PX;
+}
+
+.price{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pic1{
+    border-radius: 16PX;
+    padding: 10px;
+}

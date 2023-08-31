@@ -1,0 +1,185 @@
+body{
+    background-color: rgb(250, 250, 77);
+}
+
+.navigation{
+    border: 2px solid;
+    width: 1200px;
+    height: 100px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.mainHeader{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    color: yellow;
+}
+
+.listItems{
+    margin: 10;
+    padding: 10;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 20px;
+}
+
+.navigationLinks{
+    font-size: larger;
+    font-weight: bolder;
+    color: aqua;
+}
+
+#home{
+    justify-content: center;
+    text-align: center;
+    color: yellow;
+}
+
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    }
+
+.Btn{
+    padding: 10px 10px;
+    font-size: larger;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+.intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(236, 16, 16);
+    text-decoration: underline;
+}
+
+.text{
+    color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ad1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    color:ghostwhite;
+    text-decoration: underline;
+}
+
+.contents{
+    width: 50%;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 80px;
+    text-align: center;
+    justify-content: center;
+}
+
+.photo{
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.btn1{
+    font-weight: bolder;
+    padding: 5px 5px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+}
+
+.ad2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    color: ghostwhite;
+    text-decoration: underline;
+}
+
+.contents1{
+    width: 50%;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 80px;
+    text-align: center;
+    justify-content: center;
+}
+
+.photo1{
+border: 1px solid;
+border-radius: 5px
+}
+
+.btn2{
+    font-size: larger;
+    font-weight: bolder;
+    padding: 5px 5px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
+.ad3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    color:ghostwhite;
+    text-decoration: underline;
+}
+
+.contents2{
+    width: 50%;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 80px;
+    text-align: center;
+    justify-content: center;
+}
+
+.photo2{
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.btn3{
+    font-weight: bolder;
+    padding: 5px 5px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+}
+
+#contact{
+    background-color: rgb(80, 24, 80);
+    text-align: center;
+    color: white;
+}
+
+.emailadress{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+}
+
+.bi{
+    font-size: 30px;
+    margin-left: 10px;
+    color: white;
+}
